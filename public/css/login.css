@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+body{ background:#0CF; border:#0CF solid 1px; max-width:1920px; min-width:1200px; margin:0 auto; min-height:680px; max-height:1000px; overflow:hidden;}
+
+
+#login{ background:url(../images/logininfo.png) no-repeat; margin:150px auto; width:600px; height:300px; font-size:16px;}
+form{ width:240px; height:120px; float:left; margin-top:100px;}
+input{width:160px; height:30px; border:#0CF solid 1px; margin:5px auto;}
+
+#btn{ width:50px; height:30px; margin:20px auto;}
